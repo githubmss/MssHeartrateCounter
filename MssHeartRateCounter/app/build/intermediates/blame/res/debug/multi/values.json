@@ -1,0 +1,1046 @@
+[
+    {
+        "outputFile": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 50,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 46,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 46,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 49,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 49,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 52,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 55,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 55,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 49,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 49,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 44,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 44,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 56,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 7,
+                        "startOffset": 725,
+                        "endColumn": 59,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 44,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 44,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 44,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 44,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 49,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 49,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 57,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 57,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 46,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 46,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 46,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 50,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 50,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 51,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 51,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 49,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 49,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 39,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 39,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 57,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 55,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 148,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 148,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 52,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 54,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 52,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endColumn": 35,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 35,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 50,
+                    "endOffset": 101
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 50,
+                        "endOffset": 457
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 106,
+                    "endColumn": 46,
+                    "endOffset": 148
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 509,
+                        "endColumn": 46,
+                        "endOffset": 551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 153,
+                    "endColumn": 49,
+                    "endOffset": 198
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 265,
+                        "endColumn": 49,
+                        "endOffset": 310
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 203,
+                    "endColumn": 52,
+                    "endOffset": 251
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 316,
+                        "endColumn": 52,
+                        "endOffset": 364
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 256,
+                    "endColumn": 55,
+                    "endOffset": 307
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 557,
+                        "endColumn": 55,
+                        "endOffset": 608
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 312,
+                    "endColumn": 49,
+                    "endOffset": 357
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 671,
+                        "endColumn": 49,
+                        "endOffset": 716
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 362,
+                    "endColumn": 44,
+                    "endOffset": 402
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 829,
+                        "endColumn": 44,
+                        "endOffset": 869
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 407,
+                    "endColumn": 56,
+                    "endOffset": 459
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 7,
+                        "startOffset": 725,
+                        "endColumn": 59,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 464,
+                    "endColumn": 44,
+                    "endOffset": 504
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 463,
+                        "endColumn": 44,
+                        "endOffset": 503
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 509,
+                    "endColumn": 44,
+                    "endOffset": 549
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 783,
+                        "endColumn": 44,
+                        "endOffset": 823
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 554,
+                    "endColumn": 49,
+                    "endOffset": 599
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 107,
+                        "endColumn": 49,
+                        "endOffset": 152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 604,
+                    "endColumn": 57,
+                    "endOffset": 657
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 158,
+                        "endColumn": 57,
+                        "endOffset": 211
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 662,
+                    "endColumn": 46,
+                    "endOffset": 704
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 46,
+                        "endOffset": 259
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 709,
+                    "endColumn": 46,
+                    "endOffset": 751
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 59,
+                        "endColumn": 46,
+                        "endOffset": 101
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 756,
+                    "endColumn": 50,
+                    "endOffset": 802
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 926,
+                        "endColumn": 50,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 807,
+                    "endColumn": 51,
+                    "endOffset": 854
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 616,
+                        "endColumn": 51,
+                        "endOffset": 663
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 859,
+                    "endColumn": 49,
+                    "endOffset": 904
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 875,
+                        "endColumn": 49,
+                        "endOffset": 920
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 909,
+                    "endColumn": 39,
+                    "endOffset": 944
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/color.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 370,
+                        "endColumn": 39,
+                        "endOffset": 405
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 949,
+                    "endColumn": 57,
+                    "endOffset": 1002
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 89,
+                        "endColumn": 57,
+                        "endOffset": 142
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1007,
+                    "endColumn": 55,
+                    "endOffset": 1058
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 147,
+                        "endColumn": 55,
+                        "endOffset": 198
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1063,
+                    "endColumn": 148,
+                    "endOffset": 1207
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 253,
+                        "endColumn": 148,
+                        "endOffset": 397
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1212,
+                    "endColumn": 52,
+                    "endOffset": 1260
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 164,
+                        "endColumn": 52,
+                        "endOffset": 212
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1265,
+                    "endColumn": 54,
+                    "endOffset": 1315
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 56,
+                        "endColumn": 54,
+                        "endOffset": 106
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1320,
+                    "endColumn": 52,
+                    "endOffset": 1368
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 111,
+                        "endColumn": 52,
+                        "endOffset": 159
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1373,
+                    "endColumn": 35,
+                    "endOffset": 1404
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 217,
+                        "endColumn": 35,
+                        "endOffset": 248
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1409,
+                    "endLine": 33,
+                    "endColumn": 12,
+                    "endOffset": 1695
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 186,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 472
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 1700,
+                    "endLine": 36,
+                    "endColumn": 12,
+                    "endOffset": 1855
+                },
+                "from": {
+                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values/styles.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 510,
+                        "endLine": 17,
+                        "endColumn": 12,
+                        "endOffset": 665
+                    }
+                }
+            }
+        ]
+    }
+]

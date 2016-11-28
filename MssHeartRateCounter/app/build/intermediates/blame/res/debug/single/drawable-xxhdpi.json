@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_white_24dp.png",
+        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/drawable-xxhdpi/ic_home_white_24dp.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/drawable-xxhdpi/splash.png",
+        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/drawable-xxhdpi/splash.png"
+    },
+    {
+        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_home_white_24dp.png",
+        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/drawable-xxhdpi/ic_home_white_24dp.png"
+    }
+]

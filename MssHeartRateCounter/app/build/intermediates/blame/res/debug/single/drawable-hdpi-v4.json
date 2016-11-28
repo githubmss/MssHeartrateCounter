@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rd.jpg",
+        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/drawable-hdpi/rd.jpg"
+    },
+    {
+        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/rd.jpg",
+        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/drawable-hdpi/rd.jpg"
+    },
+    {
+        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/grn.jpeg",
+        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/drawable-hdpi/grn.jpeg"
+    },
+    {
+        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/grn.jpeg",
+        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/drawable-hdpi/grn.jpeg"
+    }
+]

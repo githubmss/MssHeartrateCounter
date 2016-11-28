@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.1.1_bfa91d9de40208ec497e7e673bbe055dfc39daf5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/pre-dexed/debug/internal_impl-23.1.1_22302fbf8743fa8d9cb865203a54e229d847ae0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/libs/achartengine-1.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="b2bb0af9f390c0edd4d7d95f613f38da3abe0144">
+        <dex dex="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/pre-dexed/debug/achartengine-1.0.0_b2a3d62c6757299d18764a2c0777c637c8174ef0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/home/deepakgupta/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1_3e10b854f08ae0ca5c68a6e8218728c3ce8cfeff.jar" />
+    </item>
+
+</items>
