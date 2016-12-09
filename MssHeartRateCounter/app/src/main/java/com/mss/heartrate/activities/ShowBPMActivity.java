@@ -39,7 +39,7 @@ public class ShowBPMActivity extends Activity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.showbpm);
-        getActionBar().hide();
+//        getActionBar().hide();
         // new Abc(image).execute("");
         initUI();
     }

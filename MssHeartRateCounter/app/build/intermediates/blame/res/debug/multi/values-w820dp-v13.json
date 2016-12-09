@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -24,7 +24,7 @@
         ]
     },
     {
-        "outputFile": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -35,7 +35,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,

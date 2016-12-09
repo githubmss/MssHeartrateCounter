@@ -6,5 +6,9 @@
     <string name="action_settings">Settings</string>
     <string name="show">""</string>
     <string name="Variable">(This BPM value may vary according to Camera and Backlight,In case of emergancy please consult your Doctor !! )</string>
-
+    <string name="txt_contact_address">4th Floor, OfficeNo. 404, Tricity Plaza Building, Peer Muchalla,Zirakpur, Punjab (Adjoining Sector 20, Panchkula) 140603, India.</string>
+    <string name="email_contact">info@mastersoftwaresolutions.com</string>
+    <string name="phone_contact">+91-81959-00456, +91-88720-13695</string>
+    <string name="google_txt">View In Google Map</string>
+    <string name="india_office">INDIA OFFICE</string>
 </resources>

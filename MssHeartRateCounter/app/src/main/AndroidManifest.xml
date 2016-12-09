@@ -8,15 +8,23 @@
         android:minSdkVersion="14"
         android:targetSdkVersion="22" />
 
+    <permission
+        android:name="com.mss.msspatternlock.permission.MAPS_RECEIVE"
+        android:protectionLevel="signature" />
+
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
     <uses-permission android:name="android.permission.WAKE_LOCK" />
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.INTERNET" />
 
     <uses-feature android:name="android.hardware.camera" />
     <uses-feature android:name="android.hardware.camera.autofocus" />
 
     <application
+        android:name="android.support.multidex.MultiDexApplication"
         android:allowBackup="true"
-        android:icon="@drawable/mss"
+        android:icon="@drawable/app_icon"
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
@@ -30,7 +38,27 @@
         </activity>
 
         <activity android:name="com.mss.heartrate.activities.ShowBPMActivity"></activity>
-        <activity android:name="com.mss.heartrate.activities.MainActivity"></activity>
+        <activity
+            android:name="com.mss.heartrate.activities.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.mss.heartrate.activities.ContactUsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.mss.heartrate.activities.MapsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name="com.mss.heartrate.activities.AboutUsActivity"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+
+        <meta-data
+            android:name="com.google.android.maps.v2.API_KEY"
+            android:value="AIzaSyCMdYHwuqpQp9l22ucZ1nEdgzDt23W0qz0" />
+        <meta-data
+            android:name="com.google.android.gms.version"
+            android:value="@integer/google_play_services_version" />
+
+
     </application>
 
 </manifest>

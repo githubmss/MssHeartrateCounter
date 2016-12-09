@@ -1,23 +1,9 @@
 package com.mss.heartrate.activities;
 
-import java.util.ArrayList;
-import java.util.Calendar;
-import java.util.Timer;
-import java.util.TimerTask;
-import java.util.concurrent.atomic.AtomicBoolean;
-
-import org.achartengine.ChartFactory;
-import org.achartengine.GraphicalView;
-import org.achartengine.chart.PointStyle;
-import org.achartengine.model.XYMultipleSeriesDataset;
-import org.achartengine.model.XYSeries;
-import org.achartengine.renderer.XYMultipleSeriesRenderer;
-import org.achartengine.renderer.XYSeriesRenderer;
-
-import android.app.Activity;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
+import android.content.pm.PackageManager;
 import android.content.res.Configuration;
 import android.graphics.Color;
 import android.graphics.Paint.Align;
@@ -33,8 +19,13 @@ import android.os.Message;
 import android.os.PowerManager;
 import android.os.PowerManager.WakeLock;
 import android.preference.PreferenceManager;
-
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.content.ContextCompat;
+import android.support.v7.app.AppCompatActivity;
+import android.support.v7.widget.Toolbar;
 import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.SurfaceHolder;
 import android.view.SurfaceView;
 import android.view.View;
@@ -45,15 +36,31 @@ import android.widget.ImageView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import com.mss.heartrate.utils.AppPreferences;
 import com.mss.heartrate.ImageProcessing;
 import com.mss.heartrate.R;
 import com.mss.heartrate.SharedArrayList;
+import com.mss.heartrate.services.GPSTracker;
+import com.mss.heartrate.utils.AppPreferences;
+import com.mss.heartrate.utils.Constants;
 
-public class MainActivity extends Activity {
+import org.achartengine.ChartFactory;
+import org.achartengine.GraphicalView;
+import org.achartengine.chart.PointStyle;
+import org.achartengine.model.XYMultipleSeriesDataset;
+import org.achartengine.model.XYSeries;
+import org.achartengine.renderer.XYMultipleSeriesRenderer;
+import org.achartengine.renderer.XYSeriesRenderer;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.Timer;
+import java.util.TimerTask;
+import java.util.concurrent.atomic.AtomicBoolean;
+
+public class MainActivity extends AppCompatActivity {
 
     private static Timer timer = new Timer();
-
+    Toolbar toolbar;
     private TimerTask mTask;
     private static int mGx;
     private static int mJ;
@@ -96,6 +103,8 @@ public class MainActivity extends Activity {
     private static TextView txtfinger;
     private static TextView txtDetect;
     private static ImageView imgHearton;
+    private GPSTracker gps;
+    private AppPreferences mSession;
 
     public static enum TYPE {
         GREEN, RED
@@ -110,25 +119,91 @@ public class MainActivity extends Activity {
     }
 
     private static int beatsIndex = 0;
-
     private static final int beatsArraySize = 3;
-
     private static final int[] beatsArray = new int[beatsArraySize];
-
     private static double beats = 0;
-
     private static long startTime = 0;
-
     SharedArrayList SAl;
 
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.main_screen);
-
-        getActionBar().hide();
-
+        ImageView imgIcon = (ImageView) findViewById(R.id.mss);
+        imgIcon.setImageResource(R.drawable.app_icon);
         initConfig();
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
+        TextView title = (TextView) findViewById(R.id.toolbar_title);
+        mSession = new AppPreferences(this);
+        title.setText("Heart Rate");
+        setSupportActionBar(toolbar);
+        getSupportActionBar().setHomeButtonEnabled(false);
+        getSupportActionBar().setDisplayHomeAsUpEnabled(false);
+        if (ContextCompat.checkSelfPermission(mContext, android.Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(mContext, android.Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            ActivityCompat.requestPermissions(MainActivity.this, new String[]{android.Manifest.permission.ACCESS_FINE_LOCATION}, 1);
+        } else {
+            gps = new GPSTracker(mContext, MainActivity.this);
+            // Check if GPS enabled
+            if (gps.canGetLocation()) {
+                double latitude = gps.getLatitude();
+                mSession.setPrefrenceString(Constants.CURRENT_LATITUDE, "" + latitude);
+                double longitude = gps.getLongitude();
+                mSession.setPrefrenceString(Constants.CURRENT_LONGITUDE, "" + longitude);
+            } else {
+                gps.showSettingsAlert();
+            }
+        }
+
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+
+        switch (requestCode) {
+            case 1: {
+                // If request is cancelled, the result arrays are empty.
+                if (grantResults.length > 0
+                        && grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+
+                    gps = new GPSTracker(mContext, MainActivity.this);
+                    if (gps.canGetLocation()) {
+                        double latitude = gps.getLatitude();
+                        mSession.setPrefrenceString(Constants.CURRENT_LATITUDE, "" + latitude);
+                        double longitude = gps.getLongitude();
+                        mSession.setPrefrenceString(Constants.CURRENT_LONGITUDE, "" + longitude);
+                    } else {
+                        gps.showSettingsAlert();
+                    }
+                } else {
+                }
+                return;
+            }
+        }
+    }
+
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        getMenuInflater().inflate(R.menu.main, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+
+        int id = item.getItemId();
+
+        if (id == R.id.contact_us) {
+            Intent intent = new Intent(MainActivity.this, ContactUsActivity.class);
+            startActivity(intent);
+            return true;
+        } else if (id == R.id.about_us) {
+            Intent intent = new Intent(MainActivity.this, AboutUsActivity.class);
+            startActivity(intent);
+            return true;
+        }
+
+        return super.onOptionsItemSelected(item);
     }
 
     @SuppressWarnings({"deprecation", "static-access"})
@@ -145,27 +220,21 @@ public class MainActivity extends Activity {
         SAl = new SharedArrayList(getApplicationContext());
         // Get here layout main interface, the following chart will draw in the
         // layout inside
-
-
         LinearLayout layout = (LinearLayout) findViewById(R.id.id_linearLayout_graph);
         // layout.setVisibility(View.GONE);
         // This class is used to place all points on the curve, is a collection
         // of points, draw curves based on these points
         mSeries = new XYSeries(mTitle);
-
         // Create an instance of a data set, the data set will be used to create
         // the chart
         mDataset = new XYMultipleSeriesDataset();
-
         // Add this dataset to set point
         mDataset.addSeries(mSeries);
-
         // The following are the curves and style attributes, etc. settings,
         // mRenderer to do the equivalent of a chart used to handle rendering
         int color = Color.WHITE;
         PointStyle style = PointStyle.CIRCLE;
         mRenderer = buildRenderer(color, style, true);
-
         // Set the graph style
         setChartSettings(mRenderer, "X", "Y", 0, 300, 4, 16, Color.WHITE,
                 Color.WHITE);

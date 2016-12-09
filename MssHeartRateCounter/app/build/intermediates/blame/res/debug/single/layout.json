@@ -1,30 +1,618 @@
 [
     {
-        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
-        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/layout/main_screen.xml"
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/layout/showbpm.xml",
-        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/layout/showbpm.xml"
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
-        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_main.xml"
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_dialog.xml"
     },
     {
-        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/showbpm.xml",
-        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/layout/showbpm.xml"
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
     },
     {
-        "merged": "/home/mss/Desktop/heartratestudio15march/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
-        "source": "/home/mss/Desktop/heartratestudio15march/app/src/main/res/layout/main_screen.xml"
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
     },
     {
-        "merged": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/home/deepakgupta/Videos/MssHeartRateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_splash.xml"
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_subheader.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_contact_us.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/fragment_map.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_bar.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_bar.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_toolbar.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_intro_overlay.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_intro_overlay.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/showbpm.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/showbpm.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_header.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_header.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_row_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_tracks_chooser_dialog_row_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_text.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_text.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_bottom_sheet_dialog.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_expanded_controller_activity.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_expanded_controller_activity.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_mini_controller.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_mini_controller.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_dialog.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_dialog.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/main_screen.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_header_item_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_controller_volume_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_volume_item.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_tab_icon.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_menu_item_action_area.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_bar.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_bar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_tracks_chooser_dialog_layout.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_tracks_chooser_dialog_layout.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_layout_snackbar_include.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_contact_us.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_contact_us.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/fragment_map.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/fragment_map.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_chooser_list_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_list_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_main.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/cast_help_text.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast-framework/9.6.1/res/layout/cast_help_text.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_chooser_dialog.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_chooser_dialog.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-places/9.6.1/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_playback_control.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_playback_control.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_controller_material_dialog_b.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/showbpm.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/showbpm.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item_separator.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/custom_toolbar.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/custom_toolbar.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/main_screen.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/main_screen.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/mr_volume_control.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/24.0.0/res/layout/mr_volume_control.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_text_input_password_icon.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/activity_about_us.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/layout/activity_about_us.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_item.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_item.xml"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/debug/layout/design_navigation_menu_item.xml",
+        "source": "/home/hp/Desktop/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/res/layout/design_navigation_menu_item.xml"
     }
 ]

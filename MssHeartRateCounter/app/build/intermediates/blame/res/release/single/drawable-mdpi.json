@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/release/drawable-mdpi/splash.png",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/drawable-mdpi/splash.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/release/drawable-mdpi/ic_launcher.png",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/drawable-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/release/drawable-mdpi/map.png",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/drawable-mdpi/map.png"
+    },
+    {
+        "merged": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/build/intermediates/res/merged/release/drawable-mdpi/ic_home_white_24dp.png",
+        "source": "/home/deepakgupta/Desktop/DemoProjects/DemoProjects/git_MssHeartRateCounter/MssHeartrateCounter/MssHeartRateCounter/app/src/main/res/drawable-mdpi/ic_home_white_24dp.png"
+    }
+]
